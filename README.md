@@ -10,6 +10,7 @@ More info? Check these out:
 ---
 ## Table of contents
 * [From Jupyter Notebooks to production code - a Kedro introduction](/from_jupyter_to_prod_kedro_intro.md)
+* [Markov Chain fake-news generator](markov_chain_fake_news_gen.md)
 
 ---
 
