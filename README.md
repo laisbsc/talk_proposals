@@ -9,7 +9,7 @@ More info? Check these out:
 
 ---
 ## Table of contents
-* [From Jupyter Notebooks to production code - a Kedro introduction](/talk_proposals/from_jupyter_to_prod_kedro_intro.md)
+* [From Jupyter Notebooks to production code - a Kedro introduction](/from_jupyter_to_prod_kedro_intro.md)
 
 ---
 
