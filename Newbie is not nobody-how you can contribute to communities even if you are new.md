@@ -22,8 +22,7 @@ coding experience you can make a huge difference in your local community.
  This talk focus on newbies but it can be enjoyed by everyone, since it is a community-talk. It was developed with beginners in mind but includes all people.
  
 #### Key takeaways
-By the end of this talk the attendees are expected to understand the basics setup of a Kedro project, know how to convert a Jupyter Notebook into a
-Kedro project and to visualise the created data pipelines using `Kedro Viz`.
+By the end of this talk the attendees are expected to understand how beneficial it is for them everyone to join their local community chapter and help. And for those who cannot help, giving talks ia also a way to retribute.
  
 > Slides of the [presentation](https://docs.google.com/presentation/d/1UKgo1XClcMueKHcwiVn-UcfIdzrYCxGnaV_cVaPzWk8/edit?usp=sharing).
 
